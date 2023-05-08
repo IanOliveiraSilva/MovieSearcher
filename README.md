@@ -30,7 +30,7 @@ Go to the project directory
 ### Remote
 To use remotely, just access the link:
 ```bash
-  test.com
+  https://ianoliveirasilva.github.io/MovieSearcher/
 ```
 
 
